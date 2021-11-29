@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ASHUdev05/VOTIFY_website_feedback/static/css/main.a20aa50e.chunk.css",
+    "main.js": "/ASHUdev05/VOTIFY_website_feedback/static/js/main.79c9ef8d.chunk.js",
+    "main.js.map": "/ASHUdev05/VOTIFY_website_feedback/static/js/main.79c9ef8d.chunk.js.map",
+    "runtime-main.js": "/ASHUdev05/VOTIFY_website_feedback/static/js/runtime-main.30d59ed3.js",
+    "runtime-main.js.map": "/ASHUdev05/VOTIFY_website_feedback/static/js/runtime-main.30d59ed3.js.map",
+    "static/js/2.3a3ad1fe.chunk.js": "/ASHUdev05/VOTIFY_website_feedback/static/js/2.3a3ad1fe.chunk.js",
+    "static/js/2.3a3ad1fe.chunk.js.map": "/ASHUdev05/VOTIFY_website_feedback/static/js/2.3a3ad1fe.chunk.js.map",
+    "index.html": "/ASHUdev05/VOTIFY_website_feedback/index.html",
+    "static/css/main.a20aa50e.chunk.css.map": "/ASHUdev05/VOTIFY_website_feedback/static/css/main.a20aa50e.chunk.css.map",
+    "static/js/2.3a3ad1fe.chunk.js.LICENSE.txt": "/ASHUdev05/VOTIFY_website_feedback/static/js/2.3a3ad1fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d59ed3.js",
+    "static/js/2.3a3ad1fe.chunk.js",
+    "static/css/main.a20aa50e.chunk.css",
+    "static/js/main.79c9ef8d.chunk.js"
+  ]
+}
